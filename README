@@ -1,0 +1,6 @@
+FreeSMS
+++++++++
+
+This project consists of :
+FreeSMS.java which provides the method to send sms using 160by2 account
+Main.java which uses the API
